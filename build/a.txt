@@ -1,0 +1,116 @@
+[ 16%] Building CXX object CMakeFiles/membot.dir/src/chatbot.cpp.o
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:51:31: error: ISO C++ forbids declaration of ‘ChatBot’ with no type [-fpermissive]
+ ChatBot(ChatBot&& otherchatbot){
+                               ^
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp: In function ‘int ChatBot(ChatBot&&)’:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:52:48: error: ‘endl’ was not declared in this scope
+     std::cout << "Move Constructor Chatbot" << endl;
+                                                ^~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:52:48: note: suggested alternative:
+In file included from /usr/include/c++/7/iostream:39:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:1:
+/usr/include/c++/7/ostream:590:5: note:   ‘std::endl’
+     endl(basic_ostream<_CharT, _Traits>& __os)
+     ^~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:53:5: error: ‘_image’ was not declared in this scope
+     _image = otherchatbot._image;
+     ^~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:53:5: note: suggested alternative: ‘wxImage’
+     _image = otherchatbot._image;
+     ^~~~~~
+     wxImage
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:53:27: error: ‘wxBitmap* ChatBot::_image’ is private within this context
+     _image = otherchatbot._image;
+                           ^~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:14:15: note: declared private here
+     wxBitmap *_image; // avatar image
+               ^~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:54:5: error: ‘_currentNode’ was not declared in this scope
+     _currentNode = otherchatbot._currentNode;
+     ^~~~~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:54:5: note: suggested alternative: ‘wxPrintMode’
+     _currentNode = otherchatbot._currentNode;
+     ^~~~~~~~~~~~
+     wxPrintMode
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:54:33: error: ‘GraphNode* ChatBot::_currentNode’ is private within this context
+     _currentNode = otherchatbot._currentNode;
+                                 ^~~~~~~~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:17:16: note: declared private here
+     GraphNode *_currentNode;
+                ^~~~~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:55:5: error: ‘_rootNode’ was not declared in this scope
+     _rootNode = otherchatbot._rootNode;
+     ^~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:55:5: note: suggested alternative: ‘GraphNode’
+     _rootNode = otherchatbot._rootNode;
+     ^~~~~~~~~
+     GraphNode
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:55:30: error: ‘GraphNode* ChatBot::_rootNode’ is private within this context
+     _rootNode = otherchatbot._rootNode;
+                              ^~~~~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:18:16: note: declared private here
+     GraphNode *_rootNode;
+                ^~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:56:5: error: ‘_chatLogic’ was not declared in this scope
+     _chatLogic = otherchatbot._chatLogic;
+     ^~~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:56:5: note: suggested alternative: ‘ChatLogic’
+     _chatLogic = otherchatbot._chatLogic;
+     ^~~~~~~~~~
+     ChatLogic
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:56:31: error: ‘ChatLogic* ChatBot::_chatLogic’ is private within this context
+     _chatLogic = otherchatbot._chatLogic;
+                               ^~~~~~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:19:16: note: declared private here
+     ChatLogic *_chatLogic;
+                ^~~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:58:18: error: ‘wxBitmap* ChatBot::_image’ is private within this context
+     otherchatbot._image = NULL;
+                  ^~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:14:15: note: declared private here
+     wxBitmap *_image; // avatar image
+               ^~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:59:18: error: ‘GraphNode* ChatBot::_currentNode’ is private within this context
+     otherchatbot._currentNode = NULL;
+                  ^~~~~~~~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:17:16: note: declared private here
+     GraphNode *_currentNode;
+                ^~~~~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:60:18: error: ‘GraphNode* ChatBot::_rootNode’ is private within this context
+     otherchatbot._rootNode = NULL;
+                  ^~~~~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:18:16: note: declared private here
+     GraphNode *_rootNode;
+                ^~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:61:18: error: ‘ChatLogic* ChatBot::_chatLogic’ is private within this context
+     otherchatbot._chatLogic = NULL;
+                  ^~~~~~~~~~
+In file included from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/graphnode.h:6:0,
+                 from /home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:7:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h:19:16: note: declared private here
+     ChatLogic *_chatLogic;
+                ^~~~~~~~~~
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp: At global scope:
+/home/puncapture/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot/src/chatbot.cpp:64:1: error: ‘ChatBot’ does not name a type
+ ChatBot& operator=(ChatBot&& otherchatbot){
+ ^~~~~~~
+CMakeFiles/membot.dir/build.make:62: recipe for target 'CMakeFiles/membot.dir/src/chatbot.cpp.o' failed
+make[2]: *** [CMakeFiles/membot.dir/src/chatbot.cpp.o] Error 1
+CMakeFiles/Makefile2:75: recipe for target 'CMakeFiles/membot.dir/all' failed
+make[1]: *** [CMakeFiles/membot.dir/all] Error 2
+Makefile:83: recipe for target 'all' failed
+make: *** [all] Error 2

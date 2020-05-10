@@ -1,0 +1,4591 @@
+cscope 15 $HOME/Documents/Projects/Chatbot/CppND-Memory-Management-Chatbot               0000023049
+	@src/answergraph.txt
+
+3 <
+	gTYPE
+:
+NODE
+><
+ID
+:0><
+ANSWER
+:
+Wñcome
+! 
+My
+ 
+«me
+ 
+is
+ 
+MemBŸ
+. 
+You
+ 
+ˇn
+ 
+ask
+ 
+me
+ 
+about
+ 
+thögs
+ 
+ªœãd
+ 
+to
+ 
+mem‹y
+ 
+m™agemít
+ 
+ö
+ 
+C
+++. 
+PossibÀ
+ 
+t›ics
+ 
+¨e
+ 'poöãrs' 
+™d
+ 'thêC++ mem‹y modñ'. 
+Wh©
+ 
+would
+ 
+you
+ 
+like
+Åÿ
+èlk
+ábout?>
+
+5 <
+TYPE
+:
+NODE
+><
+ID
+:1><
+ANSWER
+:
+Gª©
+! 
+Lë
+'†èlkábouàpoöãrs. I¿compuã∏scõn˚,áÖoöã∏i†®•ecü»vÆuêwho£ mónög i†®mem‹yáddªss. Thi†addªs†ˇ¿c⁄èöÉôhî d©a, suchá†v¨übÀ†‹ obje˘s, buàÆsÿ¥ogøm code†(ö°ru˘i⁄s). By dîe„ªncögÅhêpoöã∏ô i†possibÀÅÿac˚s†thêd©®‹Åhêcode. Am⁄g othîÅhögs,Öoöãr†¨êu£dÅÿm™agêdy«mi¯mem‹y. OthîÅ›ic†¨oundÖoöãr†you c™áskábouà¨ê'
+sm¨t
+ 
+poöãrs
+'ánd '
+nuŒ±r
+'>
+
+7 <
+TYPE
+:
+NODE
+><
+ID
+:2><
+ANSWER
+:
+Whí
+ 
+ö°™tütög
+ 
+v¨übÀs
+, 
+¥ogømmîs
+ 
+ˇn
+ 
+choo£
+ 
+wëhî
+ 
+to
+ dÿ
+this
+ 
+⁄
+ 
+the
+ 
+	ghóp
+, o¿thê
+°ack
+ 
+‹
+ 
+ö
+ 
+	gmem‹y
+. 
+Do
+ 
+you
+ 
+w™t
+Åÿ
+know
+ 
+m‹e
+ 
+about
+ 
+tho£
+ 
+two
+ 
+	gc⁄˚±s
+? 
+Sim∂y
+ 
+ask
+ 
+me
+ 
+	gabout
+ 'hóp', '°ack' 
+	g‹
+ 'static'.>
+
+9 <
+	gTYPE
+:
+NODE
+><
+ID
+:3><
+ANSWER
+:
+A
+ 
+sm¨t
+ 
+poöãr
+ 
+is
+ 
+™
+ 
+obje˘
+ 
+th©
+ 
+behaves
+ 
+like
+ 
+a
+Öoöãr, 
+	gi
+.
+	ge
+. 
+ô
+ 
+mu°
+ 
+suµ‹t
+Öoöã∏
+›î©i⁄s
+ 
+such
+ 
+as
+ 
+dîe„ªncög
+ 
+‹
+ 
+ödúe˘
+ 
+	gac˚ss
+. 
+In
+ 
+addôi⁄
+ 
+to
+ 
+the£
+ 
+	g¥›îtõs
+, 
+the
+ sm¨àpoöã∏
+h™dÀs
+ 
+ªsour˚s
+ 
+	gbëãr
+. I¿
+c⁄¸ëe
+ 
+	gãrms
+, 
+this
+ 
+móns
+Åh© ià
+èkes
+ 
+ˇª
+ 
+nŸ
+Åÿ
+ˇu£
+á 
+mem‹y
+ 
+	gÀak
+. A sm¨àpoöã∏
+exi°s
+ 
+ö
+ 
+v¨ious
+ 
+	gÊav‹s
+, 
+which
+ 
+¨e
+ 
+	gunique_±r
+, 
+sh¨ed_±r
+ 
+™d
+ 
+	gwók_±r
+. 
+Thîe
+áª 
+no
+ 
+m‹e
+ 
+t›ics
+ i¿thi†
+	g£˘i⁄
+, 
+°¨tög
+ 
+	govî
+!>
+
+11 <
+	gTYPE
+:
+NODE
+><
+ID
+:4><
+ANSWER
+:
+The
+ 
+vÆue
+ 
+nuŒ±r
+ 
+ˇn
+ 
+be
+ 
+assig√d
+ 
+to
+ 
+poöãrs
+ 
+of
+ 
+™y
+ 
+ty≥
+. 
+This
+ 
+tu∫s
+ 
+the
+ 
+poöãr
+ 
+öto
+ 
+a
+ 
+nuŒ
+Öoöã∏
+th©
+ 
+d€s
+ 
+nŸ
+ 
+poöt
+Åÿ®
+mem‹y
+ 
+loˇti⁄
+. ThênuŒ±∏
+keyw‹d
+ c™ bê
+u£d
+Åÿ
+ã°
+ ®poöã∏
+‹
+ 
+h™dÀ
+ 
+ª„ªn˚
+ 
+is
+ÇuŒ 
+bef‹e
+Åhêª„ªn˚ i†u£d. 
+Thîe
+ 
+¨e
+ 
+no
+ 
+m‹e
+ 
+t›ics
+ 
+ö
+ 
+this
+ 
+£˘i⁄
+, 
+°¨tög
+ 
+	govî
+!>
+
+13 <
+	gTYPE
+:
+NODE
+><
+ID
+:5><
+ANSWER
+:
+Loˇl
+ 
+v¨übÀs
+ 
+de˛¨ed
+ 
+as
+ 
+∑π
+ 
+of
+ 
+a
+ 
+fun˘i⁄
+ 
+¨e
+ 
+°‹ed
+ 
+⁄
+ 
+the
+ 
+°ack
+. 
+Also
+,Åhê°ack 
+is
+Åhê
+∂a˚
+ 
+whîe
+ fun˘i⁄ 
+∑ømëîs
+áª 
+	g°‹ed
+. 
+	gFuπhî
+,Åhê°ack i†
+u£d
+ 
+°‹ög
+Åhê 
+addªss
+ o‡thê
+ˇŒög
+ 
+	gfun˘i⁄s
+, 
+™d
+ 
+ô
+ 
+kìps
+Åhê
+c⁄ã¡s
+ánd áddªs†
+whí
+ 
+™
+ 
+öãºu±
+ 
+£rvi˚
+ 
+routöe
+ i†
+	gˇŒed
+. -- 
+Thîe
+áª 
+no
+ 
+m‹e
+ 
+t›ics
+ 
+ö
+ 
+this
+ 
+	g£˘i⁄
+, 
+°¨tög
+ 
+	govî
+!>
+
+15 <
+	gTYPE
+:
+NODE
+><
+ID
+:6><
+ANSWER
+:
+Hóp
+ 
+mem‹y
+, 
+Æso
+ 
+known
+ 
+as
+ 
+dy«mic
+ 
+	gmem‹y
+, 
+is
+ 
+™
+ 
+Æã∫©ive
+ 
+to
+ 
+loˇl
+ 
+°ack
+ mem‹y. 
+Loˇl
+ mem‹y i†
+Æloˇãd
+ 
+autom©iˇŒy
+ 
+⁄
+ 
+fun˘i⁄
+ 
+ˇŒ
+ 
+™d
+ 
+ô
+ i†
+dóŒoˇãd
+áutom©iˇŒy 
+whí
+ 
+a
+ fun˘i⁄ 
+	gexôs
+. Hó∞mem‹y i†
+	gdif„ª¡
+. 
+The
+ 
+¥ogømmî
+ 
+ex∂icôly
+ 
+ªque°s
+ 
+the
+ 
+Æloˇti⁄
+ 
+of
+á mem‹y 
+block
+ o‡®
+∑πicuœr
+ 
+	gsize
+,ándÅhêblock 
+c⁄töues
+Åÿ
+be
+áŒoˇãd 
+u¡û
+Åhê¥ogømmîÉx∂icôlyÑeque°†
+th©
+ iàbê
+	gdóŒoˇãd
+. -- 
+Thîe
+ 
+¨e
+ 
+no
+ 
+m‹e
+ 
+t›ics
+ 
+ö
+ 
+this
+ 
+	g£˘i⁄
+, 
+°¨tög
+ 
+	govî
+!>
+
+17 <
+	gTYPE
+:
+NODE
+><
+ID
+:7><
+ANSWER
+:
+Sètic
+ 
+mem‹y
+ 
+≥rsi°s
+ 
+throughout
+ 
+the
+ 
+ítúe
+ 
+li„
+ 
+of
+Åhê
+¥ogøm
+, 
+™d
+ 
+is
+ 
+usuÆly
+ 
+u£d
+ 
+to
+ 
+°‹e
+ 
+thögs
+ 
+like
+ 
+globÆ
+ 
+	gv¨übÀs
+, 
+‹
+ 
+v¨übÀs
+ 
+¸óãd
+ 
+wôh
+Åhê
+	g˛au£
+. -- 
+Thîe
+ 
+¨e
+ 
+no
+ 
+m‹e
+ 
+t›ics
+ 
+ö
+ 
+this
+ 
+	g£˘i⁄
+, 
+°¨tög
+ 
+	govî
+!>
+
+21 <
+	gTYPE
+:
+EDGE
+><
+ID
+:0><
+PARENT
+:0><
+CHILD
+:1><
+KEYWORD
+:
+poöãr
+><KEYWORD:
+sm¨t
+Öointer>
+
+22 <
+TYPE
+:
+EDGE
+><
+ID
+:1><
+PARENT
+:0><
+CHILD
+:2><
+KEYWORD
+:
+mem‹y
+ 
+modñ
+><KEYWORD:
+hóp
+><KEYWORD:
+°ack
+>
+
+24 <
+TYPE
+:
+EDGE
+><
+ID
+:2><
+PARENT
+:1><
+CHILD
+:3><
+KEYWORD
+:
+unique
+ 
+poöãr
+><KEYWORD:
+sh¨ed
+Öoöãr><KEYWORD:
+wók
+Öointer>
+
+25 <
+TYPE
+:
+EDGE
+><
+ID
+:3><
+PARENT
+:1><
+CHILD
+:4><
+KEYWORD
+:
+NULL
+><KEYWORD:
+nuŒ
+ 
+poöãr
+><KEYWORD:
+nuŒ±r
+>
+
+27 <
+TYPE
+:
+EDGE
+><
+ID
+:4><
+PARENT
+:2><
+CHILD
+:5><
+KEYWORD
+:
+°ack
+><KEYWORD:°ack 
+mem‹y
+><KEYWORD:
+loˇl
+ 
+v¨übÀ
+ 
+°‹age
+>
+
+28 <
+TYPE
+:
+EDGE
+><
+ID
+:5><
+PARENT
+:2><
+CHILD
+:6><
+KEYWORD
+:
+hóp
+><KEYWORD:hó∞
+mem‹y
+><KEYWORD:
+dy«mic
+ 
+°‹age
+>
+
+29 <
+TYPE
+:
+EDGE
+><
+ID
+:6><
+PARENT
+:2><
+CHILD
+:7><
+KEYWORD
+:><KEYWORD:
+mem‹y
+><KEYWORD:
+globÆ
+ 
+v¨übÀ
+ 
+°‹age
+>
+
+	@src/chatbot.cpp
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<øndom
+>
+
+3 
+	~<Æg‹ôhm
+>
+
+4 
+	~<˘ime
+>
+
+6 
+	~"ch©logic.h
+"
+
+7 
+	~"gøphnode.h
+"
+
+8 
+	~"gøphedge.h
+"
+
+9 
+	~"ch©bŸ.h
+"
+
+12 
+	gCh©BŸ
+::
+	$Ch©BŸ
+()
+
+15 
+_image
+ = 
+nuŒ±r
+;
+
+16 
+_ch©Logic
+ = 
+nuŒ±r
+;
+
+17 
+_roŸNode
+ = 
+nuŒ±r
+;
+
+18 
+	}
+}
+
+21 
+	gCh©BŸ
+::
+	$Ch©BŸ
+(
+°d
+::
+°rög
+ 
+fûíame
+)
+
+23 
+°d
+::
+cout
+ << 
+this
+ << " ";
+
+24 
+°d
+::
+cout
+ << "Ch©BŸ C⁄°ru˘‹" << std::
+ídl
+;
+
+27 
+_ch©Logic
+ = 
+nuŒ±r
+;
+
+28 
+_roŸNode
+ = 
+nuŒ±r
+;
+
+31 
+_image
+ = 
+√w
+ 
+	`wxBôm≠
+(
+fûíame
+, 
+wxBITMAP_TYPE_PNG
+);
+
+32 
+	}
+}
+
+34 
+	gCh©BŸ
+::~
+	$Ch©BŸ
+()
+
+36 
+°d
+::
+cout
+ << 
+this
+ << " ";
+
+37 
+°d
+::
+cout
+ << "Ch©BŸ De°ru˘‹" << std::
+ídl
+;
+
+40 if(
+_image
+ !
+NULL
+)
+
+42 
+dñëe
+ 
+_image
+;
+
+43 
+_image
+ = 
+NULL
+;
+
+45 
+	}
+}
+
+53 
+	gCh©BŸ
+::
+	$Re˚iveMesßgeFromU£r
+(
+°d
+::
+°rög
+ 
+mesßge
+)
+
+56 
+°d
+::
+	t∑ú
+<
+	tGøphEdge
+ *, > 
+	tEdgeDi°
+;
+
+57 
+°d
+::
+ve˘‹
+<
+EdgeDi°
+> 
+ÀvDi°s
+;
+
+59 
+size_t
+ 
+i
+ = 0; i < 
+_cuºítNode
+->
+	`GëNumbîOfChûdEdges
+(); ++i)
+
+61 
+GøphEdge
+ *
+edge
+ = 
+_cuºítNode
+->
+	`GëChûdEdgeAtIndex
+(
+i
+);
+
+62 autÿ
+keyw‹d
+ : 
+edge
+->
+	`GëKeyw‹ds
+())
+
+64 
+EdgeDi°
+ 
+ed
+{
+edge
+, 
+	`CompuãLevíshãöDi°™˚
+(
+keyw‹d
+, 
+mesßge
+)};
+
+65 
+ÀvDi°s
+.
+	`push_back
+(
+ed
+);
+
+70 
+GøphNode
+ *
+√wNode
+;
+
+71 i‡(
+ÀvDi°s
+.
+	`size
+() > 0)
+
+74 
+°d
+::
+	`s‹t
+(
+ÀvDi°s
+.
+	`begö
+(),ÜevDi°s.
+	`íd
+(), [](c⁄° 
+EdgeDi°
+ &
+a
+, c⁄° EdgeDi° &
+b
+Ë{ á.
+£c⁄d
+ < b.second; });
+
+75 
+√wNode
+ = 
+ÀvDi°s
+.
+	`©
+(0).
+fú°
+->
+	`GëChûdNode
+();
+
+80 
+√wNode
+ = 
+_roŸNode
+;
+
+84 
+_cuºítNode
+->
+	`MoveCh©bŸToNewNode
+(
+√wNode
+);
+
+85 
+	}
+}
+
+87 
+	gCh©BŸ
+::
+	$SëCuºítNode
+(
+GøphNode
+ *
+node
+)
+
+90 
+_cuºítNode
+ = 
+node
+;
+
+93 
+°d
+::
+ve˘‹
+<°d::
+°rög
+> 
+™swîs
+ = 
+_cuºítNode
+->
+	`GëAnswîs
+();
+
+94 
+°d
+::
+mt19937
+ 
+	`gíî©‹
+((°d::
+	`time
+(0)));
+
+95 
+°d
+::
+unif‹m_öt_di°ributi⁄
+<> 
+	`dis
+(0, 
+™swîs
+.
+	`size
+() - 1);
+
+96 
+°d
+::
+°rög
+ 
+™swî
+ = 
+™swîs
+.
+	`©
+(
+	`dis
+(
+gíî©‹
+));
+
+99 
+_ch©Logic
+->
+	`SídMesßgeToU£r
+(
+™swî
+);
+
+100 
+	}
+}
+
+102 
+	gCh©BŸ
+::
+	$CompuãLevíshãöDi°™˚
+(
+°d
+::
+°rög
+ 
+s1
+, std::°rög 
+s2
+)
+
+105 
+°d
+::
+	`å™sf‹m
+(
+s1
+.
+	`begö
+(), s1.
+	`íd
+(), s1.begö(), ::
+touµî
+);
+
+106 
+°d
+::
+	`å™sf‹m
+(
+s2
+.
+	`begö
+(), s2.
+	`íd
+(), s2.begö(), ::
+touµî
+);
+
+109 c⁄° 
+size_t
+ 
+	`m
+(
+s1
+.
+	`size
+());
+
+110 c⁄° 
+size_t
+ 
+	`n
+(
+s2
+.
+	`size
+());
+
+112 i‡(
+m
+ == 0)
+
+113  
+n
+;
+
+114 i‡(
+n
+ == 0)
+
+115  
+m
+;
+
+117 
+size_t
+ *
+co°s
+ = 
+√w
+ size_t[
+n
+ + 1];
+
+119 
+size_t
+ 
+k
+ = 0; k <
+n
+; k++)
+
+120 
+co°s
+[
+k
+] = k;
+
+122 
+size_t
+ 
+i
+ = 0;
+
+123 
+°d
+::
+°rög
+::
+c⁄°_ôî©‹
+ 
+ô1
+ = 
+s1
+.
+	`begö
+(); it1 !s1.
+	`íd
+(); ++ô1, ++
+i
+)
+
+125 
+co°s
+[0] = 
+i
+ + 1;
+
+126 
+size_t
+ 
+c‹√r
+ = 
+i
+;
+
+128 
+size_t
+ 
+j
+ = 0;
+
+129 
+°d
+::
+°rög
+::
+c⁄°_ôî©‹
+ 
+ô2
+ = 
+s2
+.
+	`begö
+(); it2 !s2.
+	`íd
+(); ++ô2, ++
+j
+)
+
+131 
+size_t
+ 
+uµî
+ = 
+co°s
+[
+j
+ + 1];
+
+132 i‡(*
+ô1
+ =*
+ô2
+)
+
+134 
+co°s
+[
+j
+ + 1] = 
+c‹√r
+;
+
+138 
+size_t
+ 
+	`t
+(
+uµî
+ < 
+c‹√r
+ ? upper : corner);
+
+139 
+co°s
+[
+j
+ + 1] = (co°s[j] < 
+t
+ ? costs[j] :Å) + 1;
+
+142 
+c‹√r
+ = 
+uµî
+;
+
+146 
+ªsu…
+ = 
+co°s
+[
+n
+];
+
+147 
+dñëe
+[] 
+co°s
+;
+
+149  
+ªsu…
+;
+
+150 
+	}
+}
+
+	@src/chatbot.h
+
+1 #i‚de‡
+CHATBOT_H_
+
+
+2 
+	#CHATBOT_H_
+
+
+	)
+
+4 
+	~<wx/bôm≠.h
+>
+
+5 
+	~<°rög
+>
+
+7 
+˛ass
+ 
+	gGøphNode
+;
+
+8 
+˛ass
+ 
+	gCh©Logic
+;
+
+10 ˛as†
+	cCh©BŸ
+
+
+12 
+	m¥iv©e
+:
+
+14 
+wxBôm≠
+ *
+_image
+;
+
+17 
+GøphNode
+ *
+	m_cuºítNode
+;
+
+18 
+GøphNode
+ *
+	m_roŸNode
+;
+
+19 
+Ch©Logic
+ *
+	m_ch©Logic
+;
+
+22 
+CompuãLevíshãöDi°™˚
+(
+°d
+::
+°rög
+ 
+s1
+, std::°rög 
+s2
+);
+
+24 
+	mpublic
+:
+
+26 
+Ch©BŸ
+();
+
+27 
+Ch©BŸ
+(
+°d
+::
+°rög
+ 
+fûíame
+);
+
+28 ~
+Ch©BŸ
+();
+
+37 
+SëCuºítNode
+(
+GøphNode
+ *
+node
+);
+
+38 
+	$SëRoŸNode
+(
+GøphNode
+ *
+roŸNode
+Ë{ 
+_roŸNode
+ =ÑootNode; }
+
+39 
+	$SëCh©LogicH™dÀ
+(
+Ch©Logic
+ *
+ch©Logic
+Ë{ 
+_ch©Logic
+ = ch©Logic; 
+	}
+}
+
+40 
+wxBôm≠
+ *
+	$GëImageH™dÀ
+(Ë{  
+_image
+; 
+	}
+}
+
+43 
+Re˚iveMesßgeFromU£r
+(
+°d
+::
+°rög
+ 
+mesßge
+);
+
+	@src/chatgui.cpp
+
+1 
+	~<wx/fûíame.h
+>
+
+2 
+	~<wx/cﬁour.h
+>
+
+3 
+	~<wx/image.h
+>
+
+4 
+	~<°rög
+>
+
+5 
+	~"ch©bŸ.h
+"
+
+6 
+	~"ch©logic.h
+"
+
+7 
+	~"ch©gui.h
+"
+
+10 c⁄° 
+	gwidth
+ = 414;
+
+11 c⁄° 
+	gheight
+ = 736;
+
+14 
+IMPLEMENT_APP
+(
+Ch©BŸAµ
+);
+
+16 
+	g°d
+::
+°rög
+ 
+d©aP©h
+ = "../";
+
+17 
+	g°d
+::
+°rög
+ 
+imgBa£P©h
+ = 
+d©aP©h
+ + "images/";
+
+19 
+boﬁ
+ 
+	gCh©BŸAµ
+::
+	$OnInô
+()
+
+22 
+Ch©BŸFøme
+ *
+ch©BŸFøme
+ = 
+√w
+ 
+	`Ch©BŸFøme
+(
+	`wxT
+("Udacity ChatBot"));
+
+23 
+ch©BŸFøme
+->
+	`Show
+(
+åue
+);
+
+25  
+åue
+;
+
+26 
+	}
+}
+
+29 
+	gCh©BŸFøme
+::
+	$Ch©BŸFøme
+(c⁄° 
+wxSåög
+ &
+tôÀ
+Ë: 
+	`wxFøme
+(
+NULL
+, 
+wxID_ANY
+,ÅôÀ, 
+wxDeÁu…Posôi⁄
+, 
+	$wxSize
+(
+width
+, 
+height
+))
+
+32 
+Ch©BŸFømeImageP™ñ
+ *
+˘æP™ñ
+ = 
+√w
+ 
+	`Ch©BŸFømeImageP™ñ
+(
+this
+);
+
+35 
+_∑√lDülog
+ = 
+√w
+ 
+	`Ch©BŸP™ñDülog
+(
+˘æP™ñ
+, 
+wxID_ANY
+);
+
+38 
+idTextXål
+ = 1;
+
+39 
+_u£rTextCål
+ = 
+√w
+ 
+	`wxTextCål
+(
+˘æP™ñ
+, 
+idTextXål
+, "", 
+wxDeÁu…Posôi⁄
+, 
+	`wxSize
+(
+width
+, 50), 
+wxTE_PROCESS_ENTER
+, 
+wxDeÁu…VÆid©‹
+, 
+wxTextCålNameSå
+);
+
+40 
+	`C⁄√˘
+(
+idTextXål
+, 
+wxEVT_TEXT_ENTER
+, 
+	`wxComm™dEvítH™dÀr
+(
+Ch©BŸFøme
+::
+OnE¡î
+));
+
+43 
+wxBoxSizî
+ *
+vîtBoxSizî
+ = 
+√w
+ 
+	`wxBoxSizî
+(
+wxVERTICAL
+);
+
+44 
+vîtBoxSizî
+->
+	`AddS∑˚r
+(90);
+
+45 
+vîtBoxSizî
+->
+	`Add
+(
+_∑√lDülog
+, 6, 
+wxEXPAND
+ | 
+wxALL
+, 0);
+
+46 
+vîtBoxSizî
+->
+	`Add
+(
+_u£rTextCål
+, 1, 
+wxEXPAND
+ | 
+wxALL
+, 5);
+
+47 
+˘æP™ñ
+->
+	`SëSizî
+(
+vîtBoxSizî
+);
+
+50 
+this
+->
+	`Cíåe
+();
+
+51 
+	}
+}
+
+53 
+	gCh©BŸFøme
+::
+OnE¡î
+(
+wxComm™dEvít
+ &
+	$WXUNUSED
+(
+evít
+))
+
+56 
+wxSåög
+ 
+u£rText
+ = 
+_u£rTextCål
+->
+	`GëLöeText
+(0);
+
+59 
+_∑√lDülog
+->
+	`AddDülogIãm
+(
+u£rText
+, 
+åue
+);
+
+62 
+_u£rTextCål
+->
+	`CÀ¨
+();
+
+65 
+_∑√lDülog
+->
+	`GëCh©LogicH™dÀ
+()->
+	`SídMesßgeToCh©bŸ
+(
+°d
+::
+	`°rög
+(
+u£rText
+.
+	`mb_°r
+()));
+
+66 
+	}
+}
+
+68 
+	$BEGIN_EVENT_TABLE
+(
+Ch©BŸFømeImageP™ñ
+, 
+wxP™ñ
+)
+
+69 
+	$EVT_PAINT
+(
+Ch©BŸFømeImageP™ñ
+::
+∑ötEvít
+)
+
+70 
+	$END_EVENT_TABLE
+()
+
+72 
+Ch©BŸFømeImageP™ñ
+::
+	$Ch©BŸFømeImageP™ñ
+(
+wxFøme
+ *
+∑ª¡
+Ë: 
+	$wxP™ñ
+(
+∑ª¡
+)
+
+74 
+	}
+}
+
+76 
+Ch©BŸFømeImageP™ñ
+::
+	$∑ötEvít
+(
+wxPaötEvít
+ &
+evt
+)
+
+78 
+wxPaötDC
+ 
+	`dc
+(
+this
+);
+
+79 
+	`ªndî
+(
+dc
+);
+
+80 
+	}
+}
+
+82 
+	gCh©BŸFømeImageP™ñ
+::
+	$∑ötNow
+()
+
+84 
+wxClõ¡DC
+ 
+	`dc
+(
+this
+);
+
+85 
+	`ªndî
+(
+dc
+);
+
+86 
+	}
+}
+
+88 
+	gCh©BŸFømeImageP™ñ
+::
+	$ªndî
+(
+wxDC
+ &
+dc
+)
+
+91 
+wxSåög
+ 
+imgFûe
+ = 
+imgBa£P©h
+ + "sf_bridge.jpg";
+
+92 
+wxImage
+ 
+image
+;
+
+93 
+image
+.
+	`LﬂdFûe
+(
+imgFûe
+);
+
+96 
+wxSize
+ 
+sz
+ = 
+this
+->
+	`GëSize
+();
+
+97 
+wxImage
+ 
+imgSmÆl
+ = 
+image
+.
+	`ResˇÀ
+(
+sz
+.
+	`GëWidth
+(), sz.
+	`GëHeight
+(), 
+wxIMAGE_QUALITY_HIGH
+);
+
+98 
+_image
+ = 
+	`wxBôm≠
+(
+imgSmÆl
+);
+
+100 
+dc
+.
+	`DøwBôm≠
+(
+_image
+, 0, 0, 
+Ál£
+);
+
+101 
+	}
+}
+
+103 
+	$BEGIN_EVENT_TABLE
+(
+Ch©BŸP™ñDülog
+, 
+wxP™ñ
+)
+
+104 
+	$EVT_PAINT
+(
+Ch©BŸP™ñDülog
+::
+∑ötEvít
+)
+
+105 
+	$END_EVENT_TABLE
+()
+
+107 
+Ch©BŸP™ñDülog
+::
+	$Ch©BŸP™ñDülog
+(
+wxWödow
+ *
+∑ª¡
+, 
+wxWödowID
+ 
+id
+)
+
+108 : 
+	$wxS¸ﬁÀdWödow
+(
+∑ª¡
+, 
+id
+)
+
+111 
+_dülogSizî
+ = 
+√w
+ 
+	`wxBoxSizî
+(
+wxVERTICAL
+);
+
+112 
+this
+->
+	`SëSizî
+(
+_dülogSizî
+);
+
+115 
+	`wxInôAŒImageH™dÀrs
+();
+
+119 
+_ch©Logic
+ = 
+°d
+::
+make_unique
+<
+Ch©Logic
+>();
+
+122 
+_ch©Logic
+->
+	`SëP™ñDülogH™dÀ
+(
+this
+);
+
+125 
+_ch©Logic
+->
+	`LﬂdAnswîGøphFromFûe
+(
+d©aP©h
+ + "src/answergraph.txt");
+
+128 
+	}
+}
+
+134 
+	gCh©BŸP™ñDülog
+::~
+	$Ch©BŸP™ñDülog
+()
+
+143 
+	}
+}
+
+145 
+Ch©BŸP™ñDülog
+::
+	$AddDülogIãm
+(
+wxSåög
+ 
+ãxt
+, 
+boﬁ
+ 
+isFromU£r
+)
+
+149 
+Ch©BŸP™ñDülogIãm
+ *
+ôem
+ = 
+√w
+ 
+	`Ch©BŸP™ñDülogIãm
+(
+this
+, 
+ãxt
+, 
+isFromU£r
+);
+
+150 
+_dülogSizî
+->
+	`Add
+(
+ôem
+, 0, 
+wxALL
+ | (
+isFromU£r
+ =
+åue
+ ? 
+wxALIGN_LEFT
+ : 
+wxALIGN_RIGHT
+), 8);
+
+151 
+_dülogSizî
+->
+	`Layout
+();
+
+154 
+this
+->
+	`FôInside
+();
+
+155 
+this
+->
+	`SëS¸ﬁlR©e
+(5, 5);
+
+156 
+this
+->
+	`Layout
+();
+
+159 
+dx
+, 
+dy
+;
+
+160 
+this
+->
+	`GëS¸ﬁlPixñsPîUnô
+(&
+dx
+, &
+dy
+);
+
+161 
+sy
+ = 
+dy
+ * 
+this
+->
+	`GëS¸ﬁlLöes
+(
+wxVERTICAL
+);
+
+162 
+this
+->
+	`DoS¸ﬁl
+(0, 
+sy
+);
+
+163 
+	}
+}
+
+165 
+	gCh©BŸP™ñDülog
+::
+	$PrötCh©bŸRe•⁄£
+(
+°d
+::
+°rög
+ 
+ª•⁄£
+)
+
+168 
+wxSåög
+ 
+	`bŸText
+(
+ª•⁄£
+.
+	`c_°r
+(), 
+wxC⁄vUTF8
+);
+
+169 
+	`AddDülogIãm
+(
+bŸText
+, 
+Ál£
+);
+
+170 
+	}
+}
+
+172 
+	gCh©BŸP™ñDülog
+::
+	$∑ötEvít
+(
+wxPaötEvít
+ &
+evt
+)
+
+174 
+wxPaötDC
+ 
+	`dc
+(
+this
+);
+
+175 
+	`ªndî
+(
+dc
+);
+
+176 
+	}
+}
+
+178 
+	gCh©BŸP™ñDülog
+::
+	$∑ötNow
+()
+
+180 
+wxClõ¡DC
+ 
+	`dc
+(
+this
+);
+
+181 
+	`ªndî
+(
+dc
+);
+
+182 
+	}
+}
+
+184 
+	gCh©BŸP™ñDülog
+::
+	$ªndî
+(
+wxDC
+ &
+dc
+)
+
+186 
+wxImage
+ 
+image
+;
+
+187 
+image
+.
+	`LﬂdFûe
+(
+imgBa£P©h
+ + "sf_bridge_inner.jpg");
+
+189 
+wxSize
+ 
+sz
+ = 
+this
+->
+	`GëSize
+();
+
+190 
+wxImage
+ 
+imgSmÆl
+ = 
+image
+.
+	`ResˇÀ
+(
+sz
+.
+	`GëWidth
+(), sz.
+	`GëHeight
+(), 
+wxIMAGE_QUALITY_HIGH
+);
+
+192 
+_image
+ = 
+	`wxBôm≠
+(
+imgSmÆl
+);
+
+193 
+dc
+.
+	`DøwBôm≠
+(
+_image
+, 0, 0, 
+Ál£
+);
+
+194 
+	}
+}
+
+196 
+	gCh©BŸP™ñDülogIãm
+::
+	$Ch©BŸP™ñDülogIãm
+(
+wxP™ñ
+ *
+∑ª¡
+, 
+wxSåög
+ 
+ãxt
+, 
+boﬁ
+ 
+isFromU£r
+)
+
+197 : 
+	`wxP™ñ
+(
+∑ª¡
+, -1, 
+	`wxPoöt
+(-1, -1), 
+	`wxSize
+(-1, -1), 
+wxBORDER_NONE
+)
+
+200 
+wxBôm≠
+ *
+bôm≠
+ = 
+isFromU£r
+ =
+åue
+ ? 
+nuŒ±r
+ : ((
+Ch©BŸP™ñDülog
+*)
+∑ª¡
+)->
+	`GëCh©LogicH™dÀ
+()->
+	`GëImageFromCh©bŸ
+();
+
+203 
+_ch©BŸImg
+ = 
+√w
+ 
+	`wxSèticBôm≠
+(
+this
+, 
+wxID_ANY
+, (
+isFromU£r
+ ? 
+	`wxBôm≠
+(
+imgBa£P©h
+ + "u£r.≤g", 
+wxBITMAP_TYPE_PNG
+Ë: *
+bôm≠
+), 
+	`wxPoöt
+(-1, -1), 
+	`wxSize
+(-1, -1));
+
+204 
+_ch©BŸTxt
+ = 
+√w
+ 
+	`wxSèticText
+(
+this
+, 
+wxID_ANY
+, 
+ãxt
+, 
+	`wxPoöt
+(-1, -1), 
+	`wxSize
+(150, -1), 
+wxALIGN_CENTRE
+ | 
+wxBORDER_NONE
+);
+
+205 
+_ch©BŸTxt
+->
+	`SëF‹egroundCﬁour
+(
+isFromU£r
+ =
+åue
+ ? 
+	`wxCﬁ‹
+(*
+wxBLACK
+Ë: wxCﬁ‹(*
+wxWHITE
+));
+
+208 
+wxBoxSizî
+ *
+h‹zBoxSizî
+ = 
+√w
+ 
+	`wxBoxSizî
+(
+wxHORIZONTAL
+);
+
+209 
+h‹zBoxSizî
+->
+	`Add
+(
+_ch©BŸTxt
+, 8, 
+wxEXPAND
+ | 
+wxALL
+, 1);
+
+210 
+h‹zBoxSizî
+->
+	`Add
+(
+_ch©BŸImg
+, 2, 
+wxEXPAND
+ | 
+wxALL
+, 1);
+
+211 
+this
+->
+	`SëSizî
+(
+h‹zBoxSizî
+);
+
+214 
+_ch©BŸTxt
+->
+	`Wøp
+(150);
+
+217 
+this
+->
+	`SëBackgroundCﬁour
+((
+isFromU£r
+ =
+åue
+ ? 
+	`wxT
+("YELLOW") : wxT("BLUE")));
+
+218 
+	}
+}
+
+	@src/chatgui.h
+
+1 #i‚de‡
+CHATGUI_H_
+
+
+2 
+	#CHATGUI_H_
+
+
+	)
+
+4 
+	~<wx/wx.h
+>
+
+5 
+	~<mem‹y
+>
+
+6 
+˛ass
+ 
+	gCh©Logic
+;
+
+9 ˛as†
+	cCh©BŸP™ñDülog
+ : 
+public
+ 
+wxS¸ﬁÀdWödow
+
+
+11 
+¥iv©e
+:
+
+13 
+wxBoxSizî
+ *
+_dülogSizî
+;
+
+14 
+wxBôm≠
+ 
+	m_image
+;
+
+19 
+	m°d
+::
+unique_±r
+<
+Ch©Logic
+> 
+_ch©Logic
+;
+
+24 
+	mpublic
+:
+
+26 
+Ch©BŸP™ñDülog
+(
+wxWödow
+ *
+∑ª¡
+, 
+wxWödowID
+ 
+id
+);
+
+27 ~
+Ch©BŸP™ñDülog
+();
+
+30 
+Ch©Logic
+ *
+	$GëCh©LogicH™dÀ
+(Ë{  
+_ch©Logic
+.
+	`gë
+(); }
+
+33 
+	`∑ötEvít
+(
+wxPaötEvít
+ &
+evt
+);
+
+34 
+	`∑ötNow
+();
+
+35 
+	`ªndî
+(
+wxDC
+ &
+dc
+);
+
+38 
+	`AddDülogIãm
+(
+wxSåög
+ 
+ãxt
+, 
+boﬁ
+ 
+isFromU£r
+ = 
+åue
+);
+
+39 
+	`PrötCh©bŸRe•⁄£
+(
+°d
+::
+°rög
+ 
+ª•⁄£
+);
+
+41 
+	`DECLARE_EVENT_TABLE
+()
+
+42 
+	}
+};
+
+45 ˛as†
+	cCh©BŸP™ñDülogIãm
+ : 
+public
+ 
+wxP™ñ
+
+
+47 
+¥iv©e
+:
+
+49 
+wxSèticBôm≠
+ *
+_ch©BŸImg
+;
+
+50 
+wxSèticText
+ *
+	m_ch©BŸTxt
+;
+
+52 
+	mpublic
+:
+
+54 
+Ch©BŸP™ñDülogIãm
+(
+wxP™ñ
+ *
+∑ª¡
+, 
+wxSåög
+ 
+ãxt
+, 
+boﬁ
+ 
+isFromU£r
+);
+
+58 ˛as†
+	cCh©BŸFøme
+ : 
+public
+ 
+wxFøme
+
+
+60 
+¥iv©e
+:
+
+62 
+Ch©BŸP™ñDülog
+ *
+_∑√lDülog
+;
+
+63 
+wxTextCål
+ *
+	m_u£rTextCål
+;
+
+66 
+OnE¡î
+(
+wxComm™dEvít
+ &
+WXUNUSED
+(
+evít
+));
+
+68 
+	mpublic
+:
+
+70 
+Ch©BŸFøme
+(c⁄° 
+wxSåög
+ &
+tôÀ
+);
+
+74 ˛as†
+	cCh©BŸFømeImageP™ñ
+ : 
+public
+ 
+wxP™ñ
+
+
+77 
+wxBôm≠
+ 
+_image
+;
+
+79 
+	mpublic
+:
+
+81 
+Ch©BŸFømeImageP™ñ
+(
+wxFøme
+ *
+∑ª¡
+);
+
+84 
+∑ötEvít
+(
+wxPaötEvít
+ &
+evt
+);
+
+85 
+∑ötNow
+();
+
+86 
+ªndî
+(
+wxDC
+ &
+dc
+);
+
+88 
+DECLARE_EVENT_TABLE
+()
+
+92 ˛as†
+	cCh©BŸAµ
+ : 
+public
+ 
+wxAµ
+
+
+94 
+public
+:
+
+96 
+vútuÆ
+ 
+boﬁ
+ 
+OnInô
+();
+
+	@src/chatlogic.cpp
+
+1 
+	~<f°ªam
+>
+
+2 
+	~<s°ªam
+>
+
+3 
+	~<io°ªam
+>
+
+4 
+	~<ve˘‹
+>
+
+5 
+	~<ôî©‹
+>
+
+6 
+	~<tu∂e
+>
+
+7 
+	~<Æg‹ôhm
+>
+
+9 
+	~"gøphedge.h
+"
+
+10 
+	~"gøphnode.h
+"
+
+11 
+	~"ch©bŸ.h
+"
+
+12 
+	~"ch©logic.h
+"
+
+15 
+	gCh©Logic
+::
+	$Ch©Logic
+()
+
+21 
+_ch©BŸ
+ = 
+√w
+ 
+	`Ch©BŸ
+("../images/chatbot.png");
+
+24 
+_ch©BŸ
+->
+	`SëCh©LogicH™dÀ
+(
+this
+);
+
+28 
+	}
+}
+
+30 
+	gCh©Logic
+::~
+	$Ch©Logic
+()
+
+36 
+dñëe
+ 
+_ch©BŸ
+;
+
+39 autÿ
+ô
+ = 
+°d
+::
+	`begö
+(
+_nodes
+); ià!°d::
+	`íd
+(_nodes); ++it)
+
+41 
+dñëe
+ *
+ô
+;
+
+45 autÿ
+ô
+ = 
+°d
+::
+	`begö
+(
+_edges
+); ià!°d::
+	`íd
+(_edges); ++it)
+
+47 
+dñëe
+ *
+ô
+;
+
+52 
+	}
+}
+
+54 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+55 
+	gCh©Logic
+::
+	$AddAŒTokísToEÀmít
+(
+°d
+::
+°rög
+ 
+tokíID
+, 
+tokíli°
+ &
+tokís
+, 
+T
+ &
+ñemít
+)
+
+58 autÿ
+tokí
+ = 
+tokís
+.
+	`begö
+();
+
+59 
+åue
+)
+
+61 
+tokí
+ = 
+°d
+::
+	`föd_if
+—okí, 
+tokís
+.
+	`íd
+(), [&
+tokíID
+](c⁄° std::
+∑ú
+<°d::
+°rög
+, std::°rög> &∑úË{ Öaú.
+fú°
+ ==ÅokenID;; });
+
+62 i‡(
+tokí
+ !
+tokís
+.
+	`íd
+())
+
+64 
+ñemít
+.
+	`AddTokí
+(
+tokí
+->
+£c⁄d
+);
+
+65 
+tokí
+++;
+
+72 
+	}
+}
+
+74 
+	gCh©Logic
+::
+	$LﬂdAnswîGøphFromFûe
+(
+°d
+::
+°rög
+ 
+fûíame
+)
+
+77 
+°d
+::
+if°ªam
+ 
+	`fûe
+(
+fûíame
+);
+
+80 i‡(
+fûe
+)
+
+83 
+°d
+::
+°rög
+ 
+löeSå
+;
+
+84 
+	`gëlöe
+(
+fûe
+, 
+löeSå
+))
+
+87 
+tokíli°
+ 
+tokís
+;
+
+88 
+löeSå
+.
+	`size
+() > 0)
+
+91 
+posTokíFr⁄t
+ = 
+löeSå
+.
+	`föd
+("<");
+
+92 
+posTokíBack
+ = 
+löeSå
+.
+	`föd
+(">");
+
+93 i‡(
+posTokíFr⁄t
+ < 0 || 
+posTokíBack
+ < 0)
+
+95 
+°d
+::
+°rög
+ 
+tokíSå
+ = 
+löeSå
+.
+	`sub°r
+(
+posTokíFr⁄t
+ + 1, 
+posTokíBack
+ - 1);
+
+98 
+posTokíInfo
+ = 
+tokíSå
+.
+	`föd
+(":");
+
+99 i‡(
+posTokíInfo
+ !
+°d
+::
+°rög
+::
+≈os
+)
+
+101 
+°d
+::
+°rög
+ 
+tokíTy≥
+ = 
+tokíSå
+.
+	`sub°r
+(0, 
+posTokíInfo
+);
+
+102 
+°d
+::
+°rög
+ 
+tokíInfo
+ = 
+tokíSå
+.
+	`sub°r
+(
+posTokíInfo
+ + 1,ÅokíSå.
+	`size
+() - 1);
+
+105 
+tokís
+.
+	`push_back
+(
+°d
+::
+	`make_∑ú
+(
+tokíTy≥
+, 
+tokíInfo
+));
+
+109 
+löeSå
+ =ÜöeSå.
+	`sub°r
+(
+posTokíBack
+ + 1,ÜöeSå.
+	`size
+());
+
+113 autÿ
+ty≥
+ = 
+°d
+::
+	`föd_if
+(
+tokís
+.
+	`begö
+(),Åokís.
+	`íd
+(), [](c⁄° std::
+∑ú
+<°d::
+°rög
+, std::°rög> &∑úË{ Öaú.
+fú°
+ == "TYPE"; });
+
+114 i‡(
+ty≥
+ !
+tokís
+.
+	`íd
+())
+
+117 autÿ
+idTokí
+ = 
+°d
+::
+	`föd_if
+(
+tokís
+.
+	`begö
+(),Åokís.
+	`íd
+(), [](c⁄° std::
+∑ú
+<°d::
+°rög
+, std::°rög> &∑úË{ Öaú.
+fú°
+ == "ID"; });
+
+118 i‡(
+idTokí
+ !
+tokís
+.
+	`íd
+())
+
+121 
+id
+ = 
+°d
+::
+	`°oi
+(
+idTokí
+->
+£c⁄d
+);
+
+124 i‡(
+ty≥
+->
+£c⁄d
+ == "NODE")
+
+130 autÿ
+√wNode
+ = 
+°d
+::
+	`föd_if
+(
+_nodes
+.
+	`begö
+(), _nodes.
+	`íd
+(), [&
+id
+](
+GøphNode
+ *
+node
+Ë{ Çode->
+	`GëID
+() == id; });
+
+133 i‡(
+√wNode
+ =
+_nodes
+.
+	`íd
+())
+
+135 
+_nodes
+.
+	`em∂a˚_back
+(
+√w
+ 
+	`GøphNode
+(
+id
+));
+
+136 
+√wNode
+ = 
+_nodes
+.
+	`íd
+() - 1;
+
+139 
+	`AddAŒTokísToEÀmít
+("ANSWER", 
+tokís
+, **
+√wNode
+);
+
+147 i‡(
+ty≥
+->
+£c⁄d
+ == "EDGE")
+
+153 autÿ
+∑ª¡Tokí
+ = 
+°d
+::
+	`föd_if
+(
+tokís
+.
+	`begö
+(),Åokís.
+	`íd
+(), [](c⁄° std::
+∑ú
+<°d::
+°rög
+, std::°rög> &∑úË{ Öaú.
+fú°
+ == "PARENT"; });
+
+154 autÿ
+chûdTokí
+ = 
+°d
+::
+	`föd_if
+(
+tokís
+.
+	`begö
+(),Åokís.
+	`íd
+(), [](c⁄° std::
+∑ú
+<°d::
+°rög
+, std::°rög> &∑úË{ Öaú.
+fú°
+ == "CHILD"; });
+
+156 i‡(
+∑ª¡Tokí
+ !
+tokís
+.
+	`íd
+(Ë&& 
+chûdTokí
+ !=Åokens.end())
+
+159 autÿ
+∑ª¡Node
+ = 
+°d
+::
+	`föd_if
+(
+_nodes
+.
+	`begö
+(), _nodes.
+	`íd
+(), [&
+∑ª¡Tokí
+](
+GøphNode
+ *
+node
+Ë{ Çode->
+	`GëID
+(Ë=°d::
+	`°oi
+’¨ítTokí->
+£c⁄d
+); });
+
+160 autÿ
+chûdNode
+ = 
+°d
+::
+	`föd_if
+(
+_nodes
+.
+	`begö
+(), _nodes.
+	`íd
+(), [&
+chûdTokí
+](
+GøphNode
+ *
+node
+Ë{ Çode->
+	`GëID
+(Ë=°d::
+	`°oi
+(chûdTokí->
+£c⁄d
+); });
+
+163 
+GøphEdge
+ *
+edge
+ = 
+√w
+ 
+	`GøphEdge
+(
+id
+);
+
+164 
+edge
+->
+	`SëChûdNode
+(*
+chûdNode
+);
+
+165 
+edge
+->
+	`SëP¨ítNode
+(*
+∑ª¡Node
+);
+
+166 
+_edges
+.
+	`push_back
+(
+edge
+);
+
+169 
+	`AddAŒTokísToEÀmít
+("KEYWORD", 
+tokís
+, *
+edge
+);
+
+172 (*
+chûdNode
+)->
+	`AddEdgeToP¨ítNode
+(
+edge
+);
+
+173 (*
+∑ª¡Node
+)->
+	`AddEdgeToChûdNode
+(
+edge
+);
+
+182 
+°d
+::
+cout
+ << "Eº‹: ID missög. Löêi†ign‹ed!" << std::
+ídl
+;
+
+187 
+fûe
+.
+	`˛o£
+();
+
+192 
+°d
+::
+cout
+ << "FûêcouldÇŸ bê›íed!" << std::
+ídl
+;
+
+200 
+GøphNode
+ *
+roŸNode
+ = 
+nuŒ±r
+;
+
+201 autÿ
+ô
+ = 
+°d
+::
+	`begö
+(
+_nodes
+); ià!°d::
+	`íd
+(_nodes); ++it)
+
+204 i‡((*
+ô
+)->
+	`GëNumbîOfP¨íts
+() == 0)
+
+207 i‡(
+roŸNode
+ =
+nuŒ±r
+)
+
+209 
+roŸNode
+ = *
+ô
+;
+
+213 
+°d
+::
+cout
+ << "ERROR : Mu…ùÀÑoŸÇode†dëe˘ed" << std::
+ídl
+;
+
+219 
+_ch©BŸ
+->
+	`SëRoŸNode
+(
+roŸNode
+);
+
+220 
+roŸNode
+->
+	`MoveCh©bŸHîe
+(
+_ch©BŸ
+);
+
+224 
+	}
+}
+
+226 
+	gCh©Logic
+::
+	$SëP™ñDülogH™dÀ
+(
+Ch©BŸP™ñDülog
+ *
+∑√lDülog
+)
+
+228 
+_∑√lDülog
+ = 
+∑√lDülog
+;
+
+229 
+	}
+}
+
+231 
+	gCh©Logic
+::
+	$SëCh©bŸH™dÀ
+(
+Ch©BŸ
+ *
+ch©bŸ
+)
+
+233 
+_ch©BŸ
+ = 
+ch©bŸ
+;
+
+234 
+	}
+}
+
+236 
+	gCh©Logic
+::
+	$SídMesßgeToCh©bŸ
+(
+°d
+::
+°rög
+ 
+mesßge
+)
+
+238 
+_ch©BŸ
+->
+	`Re˚iveMesßgeFromU£r
+(
+mesßge
+);
+
+239 
+	}
+}
+
+241 
+	gCh©Logic
+::
+	$SídMesßgeToU£r
+(
+°d
+::
+°rög
+ 
+mesßge
+)
+
+243 
+_∑√lDülog
+->
+	`PrötCh©bŸRe•⁄£
+(
+mesßge
+);
+
+244 
+	}
+}
+
+246 
+wxBôm≠
+ *
+	gCh©Logic
+::
+	$GëImageFromCh©bŸ
+()
+
+248  
+_ch©BŸ
+->
+	`GëImageH™dÀ
+();
+
+249 
+	}
+}
+
+	@src/chatlogic.h
+
+1 #i‚de‡
+CHATLOGIC_H_
+
+
+2 
+	#CHATLOGIC_H_
+
+
+	)
+
+4 
+	~<ve˘‹
+>
+
+5 
+	~<°rög
+>
+
+6 
+	~"ch©gui.h
+"
+
+9 
+˛ass
+ 
+	gCh©BŸ
+;
+
+10 
+˛ass
+ 
+	gGøphEdge
+;
+
+11 
+˛ass
+ 
+	gGøphNode
+;
+
+13 ˛as†
+	cCh©Logic
+
+
+15 
+	m¥iv©e
+:
+
+20 
+°d
+::
+ve˘‹
+<
+GøphNode
+ *> 
+_nodes
+;
+
+21 
+	m°d
+::
+ve˘‹
+<
+GøphEdge
+ *> 
+_edges
+;
+
+27 
+GøphNode
+ *
+	m_cuºítNode
+;
+
+28 
+Ch©BŸ
+ *
+	m_ch©BŸ
+;
+
+29 
+Ch©BŸP™ñDülog
+ *
+	m_∑√lDülog
+;
+
+32 
+	m°d
+::
+	tve˘‹
+<
+	t°d
+::
+	t∑ú
+<°d::
+	t°rög
+, std::°rög>> 
+	ttokíli°
+;
+
+35 
+	mãm∂©e
+ <
+ty≥«me
+ 
+	mT
+>
+
+36 
+AddAŒTokísToEÀmít
+(
+°d
+::
+°rög
+ 
+tokíID
+, 
+tokíli°
+ &
+tokís
+, 
+T
+ &
+ñemít
+);
+
+38 
+	mpublic
+:
+
+40 
+Ch©Logic
+();
+
+41 ~
+Ch©Logic
+();
+
+44 
+SëP™ñDülogH™dÀ
+(
+Ch©BŸP™ñDülog
+ *
+∑√lDülog
+);
+
+45 
+SëCh©bŸH™dÀ
+(
+Ch©BŸ
+ *
+ch©bŸ
+);
+
+48 
+LﬂdAnswîGøphFromFûe
+(
+°d
+::
+°rög
+ 
+fûíame
+);
+
+49 
+SídMesßgeToCh©bŸ
+(
+°d
+::
+°rög
+ 
+mesßge
+);
+
+50 
+SídMesßgeToU£r
+(
+°d
+::
+°rög
+ 
+mesßge
+);
+
+51 
+wxBôm≠
+ *
+GëImageFromCh©bŸ
+();
+
+	@src/graphedge.cpp
+
+1 
+	~"gøphnode.h
+"
+
+2 
+	~"gøphedge.h
+"
+
+4 
+	gGøphEdge
+::
+	$GøphEdge
+(
+id
+)
+
+6 
+_id
+ = 
+id
+;
+
+7 
+	}
+}
+
+9 
+	gGøphEdge
+::
+	$SëChûdNode
+(
+GøphNode
+ *
+chûdNode
+)
+
+11 
+_chûdNode
+ = 
+chûdNode
+;
+
+12 
+	}
+}
+
+14 
+	gGøphEdge
+::
+	$SëP¨ítNode
+(
+GøphNode
+ *
+∑ª¡Node
+)
+
+16 
+_∑ª¡Node
+ = 
+∑ª¡Node
+;
+
+17 
+	}
+}
+
+19 
+	gGøphEdge
+::
+	$AddTokí
+(
+°d
+::
+°rög
+ 
+tokí
+)
+
+21 
+_keyw‹ds
+.
+	`push_back
+(
+tokí
+);
+
+22 
+	}
+}
+
+	@src/graphedge.h
+
+1 #i‚de‡
+GRAPHEDGE_H_
+
+
+2 
+	#GRAPHEDGE_H_
+
+
+	)
+
+4 
+	~<ve˘‹
+>
+
+5 
+	~<°rög
+>
+
+7 
+˛ass
+ 
+	gGøphNode
+;
+
+9 ˛as†
+	cGøphEdge
+
+
+11 
+	m¥iv©e
+:
+
+13 
+GøphNode
+ *
+_chûdNode
+;
+
+14 
+GøphNode
+ *
+	m_∑ª¡Node
+;
+
+17 
+	m_id
+;
+
+18 
+	m°d
+::
+ve˘‹
+<
+°d
+::
+°rög
+> 
+_keyw‹ds
+;
+
+21 
+	mpublic
+:
+
+23 
+GøphEdge
+(
+id
+);
+
+26 
+	$GëID
+(Ë{  
+_id
+; }
+
+27 
+	`SëChûdNode
+(
+GøphNode
+ *
+chûdNode
+);
+
+28 
+	`SëP¨ítNode
+(
+GøphNode
+ *
+∑ª¡Node
+);
+
+29 
+GøphNode
+ *
+	$GëChûdNode
+(Ë{  
+_chûdNode
+; 
+	}
+}
+
+30 
+	g°d
+::
+ve˘‹
+<
+°d
+::
+°rög
+> 
+	$GëKeyw‹ds
+(Ë{  
+_keyw‹ds
+; 
+	}
+}
+
+33 
+AddTokí
+(
+°d
+::
+°rög
+ 
+tokí
+);
+
+	@src/graphnode.cpp
+
+1 
+	~"gøphedge.h
+"
+
+2 
+	~"gøphnode.h
+"
+
+4 
+	gGøphNode
+::
+	$GøphNode
+(
+id
+)
+
+6 
+_id
+ = 
+id
+;
+
+7 
+	}
+}
+
+9 
+	gGøphNode
+::~
+	$GøphNode
+()
+
+18 
+	}
+}
+
+20 
+GøphNode
+::
+	$AddTokí
+(
+°d
+::
+°rög
+ 
+tokí
+)
+
+22 
+_™swîs
+.
+	`push_back
+(
+tokí
+);
+
+23 
+	}
+}
+
+25 
+	gGøphNode
+::
+	$AddEdgeToP¨ítNode
+(
+GøphEdge
+ *
+edge
+)
+
+27 
+_∑ª¡Edges
+.
+	`push_back
+(
+edge
+);
+
+28 
+	}
+}
+
+30 
+	gGøphNode
+::
+	$AddEdgeToChûdNode
+(
+GøphEdge
+ *
+edge
+)
+
+32 
+_chûdEdges
+.
+	`push_back
+(
+edge
+);
+
+33 
+	}
+}
+
+37 
+	gGøphNode
+::
+	$MoveCh©bŸHîe
+(
+Ch©BŸ
+ *
+ch©bŸ
+)
+
+39 
+_ch©BŸ
+ = 
+ch©bŸ
+;
+
+40 
+_ch©BŸ
+->
+	`SëCuºítNode
+(
+this
+);
+
+41 
+	}
+}
+
+43 
+	gGøphNode
+::
+	$MoveCh©bŸToNewNode
+(
+GøphNode
+ *
+√wNode
+)
+
+45 
+√wNode
+->
+	`MoveCh©bŸHîe
+(
+_ch©BŸ
+);
+
+46 
+_ch©BŸ
+ = 
+nuŒ±r
+;
+
+47 
+	}
+}
+
+51 
+GøphEdge
+ *
+	gGøphNode
+::
+	$GëChûdEdgeAtIndex
+(
+ödex
+)
+
+56  
+_chûdEdges
+[
+ödex
+];
+
+60 
+	}
+}
+
+	@src/graphnode.h
+
+1 #i‚de‡
+GRAPHNODE_H_
+
+
+2 
+	#GRAPHNODE_H_
+
+
+	)
+
+4 
+	~<ve˘‹
+>
+
+5 
+	~<°rög
+>
+
+6 
+	~"ch©bŸ.h
+"
+
+10 
+˛ass
+ 
+	gGøphEdge
+;
+
+12 ˛as†
+	cGøphNode
+
+
+14 
+	m¥iv©e
+:
+
+19 
+°d
+::
+ve˘‹
+<
+GøphEdge
+ *> 
+_chûdEdges
+;
+
+22 
+	m°d
+::
+ve˘‹
+<
+GøphEdge
+ *> 
+_∑ª¡Edges
+;
+
+23 
+Ch©BŸ
+ *
+	m_ch©BŸ
+;
+
+29 
+	m_id
+;
+
+30 
+	m°d
+::
+ve˘‹
+<
+°d
+::
+°rög
+> 
+_™swîs
+;
+
+32 
+	mpublic
+:
+
+34 
+GøphNode
+(
+id
+);
+
+35 ~
+GøphNode
+();
+
+38 
+	$GëID
+(Ë{  
+_id
+; }
+
+39 
+	$GëNumbîOfChûdEdges
+(Ë{  
+_chûdEdges
+.
+	`size
+(); 
+	}
+}
+
+40 
+GøphEdge
+ *
+GëChûdEdgeAtIndex
+(
+ödex
+);
+
+41 
+	g°d
+::
+ve˘‹
+<
+°d
+::
+°rög
+> 
+	$GëAnswîs
+(Ë{  
+_™swîs
+; 
+	}
+}
+
+42 
+	$GëNumbîOfP¨íts
+(Ë{  
+_∑ª¡Edges
+.
+	`size
+(); 
+	}
+}
+
+45 
+AddTokí
+(
+°d
+::
+°rög
+ 
+tokí
+);
+
+46 
+AddEdgeToP¨ítNode
+(
+GøphEdge
+ *
+edge
+);
+
+47 
+AddEdgeToChûdNode
+(
+GøphEdge
+ *
+edge
+);
+
+52 
+MoveCh©bŸHîe
+(
+Ch©BŸ
+ *
+ch©bŸ
+);
+
+57 
+MoveCh©bŸToNewNode
+(
+GøphNode
+ *
+√wNode
+);
+
+	@
+1
+.
+1
+/usr/include
+11
+182
+src/answergraph.txt
+src/chatbot.cpp
+src/chatbot.h
+src/chatgui.cpp
+src/chatgui.h
+src/chatlogic.cpp
+src/chatlogic.h
+src/graphedge.cpp
+src/graphedge.h
+src/graphnode.cpp
+src/graphnode.h
